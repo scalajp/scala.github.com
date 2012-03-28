@@ -17,3 +17,5 @@ pygments: true
 permalink: /:categories/:title.html
 
 # markdown: rdiscount
+baseurl: http://scalajp.github.com/scala.github.com
+
