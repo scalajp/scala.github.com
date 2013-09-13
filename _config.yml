@@ -15,8 +15,9 @@ scala-version: 2.10.0
 
 pygments: true
 permalink: /:categories/:title.html
-baseurl:
 
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+baseurl: http://scalajp.github.io/scala.github.com
